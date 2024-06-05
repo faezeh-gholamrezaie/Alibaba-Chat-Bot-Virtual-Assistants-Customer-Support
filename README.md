@@ -1,2 +1,3 @@
-# Alibaba-Chat-Bot-Virtual-Assistants-Customer-Support
-Alibaba Chat Bot is a customer support assistant that utilizes image recognition, natural language processing, and text-to-speech capabilities to provide a comprehensive customer support experience.
+# Alibaba Chat Bot : Virtual Assistants Customer Support
+
+The Alibaba Chat Bot is a virtual assistant designed to provide customer support through a combination of text and voice interfaces. It can recognize ticket numbers from user-uploaded images, prompt customers for additional information, and provide responses in either text or audio format. 
