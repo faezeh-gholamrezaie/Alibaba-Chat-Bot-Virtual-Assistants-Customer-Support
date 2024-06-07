@@ -15,12 +15,12 @@ It can recognize ticket numbers from user-uploaded images, prompt customers for 
 !pip install -r requirements. txt
 
 ### Get API Key
-![TAVILY_API_KEY](https://app.tavily.com/home)
-![LANGCHAIN_API_KEY](https://smith.langchain.com/)
-![COHERE_API_KEY](https://www.google.com/url?q=https%3A%2F%2Fdashboard.cohere.com%2Fwelcome%2Flogin%3Fsource%3Dreadme%26redirect%3D%252Freference%252Fabout)
+[TAVILY_API_KEY](https://app.tavily.com/home)
+[LANGCHAIN_API_KEY](https://smith.langchain.com/)
+[COHERE_API_KEY](https://www.google.com/url?q=https%3A%2F%2Fdashboard.cohere.com%2Fwelcome%2Flogin%3Fsource%3Dreadme%26redirect%3D%252Freference%252Fabout)
 
 ### Dataset 
 
-Alibaba_question_and_answers : This data set is based on ![frequently asked questions and answers from Alibaba customers](https://www.alibaba.ir/help-center/categories/faq)
+Alibaba_question_and_answers : This data set is based on [frequently asked questions and answers from Alibaba customers](https://www.alibaba.ir/help-center/categories/faq)
 
 colorful_number_ticket : A hypothetical image for the customer ticket.
