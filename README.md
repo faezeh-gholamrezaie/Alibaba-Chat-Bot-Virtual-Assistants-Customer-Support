@@ -12,6 +12,7 @@ It can recognize ticket numbers from user-uploaded images, prompt customers for 
 ### Install the required libraries
 
 !apt-get install espeak -y
+
 !pip install -r requirements. txt
 
 ### Get API Key
