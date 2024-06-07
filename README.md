@@ -15,12 +15,27 @@ It can recognize ticket numbers from user-uploaded images, prompt customers for 
 !pip install -r requirements. txt
 
 ### Get API Key
-[TAVILY_API_KEY](https://app.tavily.com/home)
-[LANGCHAIN_API_KEY](https://smith.langchain.com/)
-[COHERE_API_KEY](https://www.google.com/url?q=https%3A%2F%2Fdashboard.cohere.com%2Fwelcome%2Flogin%3Fsource%3Dreadme%26redirect%3D%252Freference%252Fabout)
+
+* [TAVILY_API_KEY](https://app.tavily.com/home)
+* [LANGCHAIN_API_KEY](https://smith.langchain.com/)
+* [COHERE_API_KEY](https://www.google.com/url?q=https%3A%2F%2Fdashboard.cohere.com%2Fwelcome%2Flogin%3Fsource%3Dreadme%26redirect%3D%252Freference%252Fabout)
 
 ### Dataset 
 
-Alibaba_question_and_answers : This data set is based on [frequently asked questions and answers from Alibaba customers](https://www.alibaba.ir/help-center/categories/faq)
+* Alibaba_question_and_answers : This data set is based on [frequently asked questions and answers from Alibaba customers](https://www.alibaba.ir/help-center/categories/faq)
 
-colorful_number_ticket : A hypothetical image for the customer ticket.
+* colorful_number_ticket : A hypothetical image for the customer ticket.
+
+### Tools
+
+This assistant has tools related to booking, canceling or updating plane tickets, hotels and rental cars.
+
+### Gen AI Model
+
+* Persian/Farsi text to speech(TTS) training using coqui tts : [Persian-tts-coqui](https://huggingface.co/Kamtera/persian-tts-female-vits)
+* large language models : [Cohere](https://github.com/cohere-ai/cohere-python)
+* vision language model : [moondream](https://github.com/vikhyat/moondream)
+
+### Build a Customer Support Bot
+
+Using [LangChain](https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/) to create applications using large language models
